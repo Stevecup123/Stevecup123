@@ -62,15 +62,13 @@ Me guían valores como la **responsabilidad, cooperación, honestidad y servicio
 
 ## 📊 Estadísticas de GitHub
 
-<!-- Estadísticas generales -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas GitHub" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más usados" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Stevecup123&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas GitHub" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevecup123&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más usados" width="48%"/>
 </p>
 
-<!-- Racha de contribuciones -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical&hide_border=true" alt="Racha de contribuciones"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stevecup123&theme=radical&hide_border=true" alt="Racha de contribuciones"/>
 </p>
 
 ---
