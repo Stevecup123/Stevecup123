@@ -5,9 +5,8 @@
 <!-- Badges de contacto -->
 <p align="center">
   <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/tu-usuario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://tu-portafolio.com"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio"/></a>
+ 
+
 </p>
 
 <!-- Vista de visitas -->
@@ -19,7 +18,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Ingeniero de Sistemas con **+X años de experiencia** en el desarrollo de software robusto y la gestión integral de infraestructura tecnológica. Mi trayectoria combina:
+Ingeniero de Sistemas con experiencia en el desarrollo de software robusto y la gestión integral de infraestructura tecnológica. Mi trayectoria combina:
 
 - **Desarrollo Backend:** C# y Java aplicando sólidos principios de **Programación Orientada a Objetos**.
 - **Infraestructura y Redes:** Administración de servidores virtualizados, routing.
@@ -76,16 +75,6 @@ Me guían valores como la **responsabilidad, cooperación, honestidad y servicio
 
 ---
 
-## 🌐 Contacto
-
-<p align="center">
-  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/tu-usuario"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://twitter.com/tu-usuario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://tu-portafolio.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
-</p>
-
----
 
 <!-- Frase final -->
 <p align="center">
