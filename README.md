@@ -2,17 +2,6 @@
 <h1 align="center">👋 Hola, soy Selvin Steve</h1>
 <h3 align="center">Ingeniero de Sistemas | Desarrollador Full-Stack | Apasionado por la Infraestructura y Seguridad</h3>
 
-<!-- Badges de contacto -->
-<p align="center">
-  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
- 
-
-</p>
-
-<!-- Vista de visitas -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas"/>
-</p>
 
 ---
 
